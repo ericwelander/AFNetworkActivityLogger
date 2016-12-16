@@ -20,9 +20,8 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
+@import AFNetworking;
 #import "AFNetworkActivityLogger.h"
-#import "AFURLConnectionOperation.h"
-#import "AFURLSessionManager.h"
 
 #import <objc/runtime.h>
 
